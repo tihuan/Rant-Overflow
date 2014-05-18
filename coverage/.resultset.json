@@ -1,14 +1,14 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/apprentice/Desktop/Rant-Overflow/config/environment.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/application.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/application.rb": [
         1,
         null,
         null,
@@ -40,13 +40,13 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/boot.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/boot.rb": [
         null,
         1,
         null,
         1
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/environments/test.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/environments/test.rb": [
         1,
         null,
         null,
@@ -87,7 +87,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/initializers/backtrace_silencers.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -96,18 +96,18 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/initializers/cookies_serializer.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/initializers/cookies_serializer.rb": [
         null,
         null,
         1
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/initializers/filter_parameter_logging.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/initializers/inflections.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -125,18 +125,18 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/initializers/mime_types.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/initializers/session_store.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/initializers/session_store.rb": [
         null,
         null,
         1
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/initializers/wrap_parameters.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -152,7 +152,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/factories/rants.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/factories/rants.rb": [
         1,
         1,
         1,
@@ -160,14 +160,14 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/factories/responses.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/factories/responses.rb": [
         1,
         1,
         1,
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/factories/users.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/factories/users.rb": [
         1,
         1,
         1,
@@ -175,7 +175,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/config/routes.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/config/routes.rb": [
         1,
         1,
         1,
@@ -213,7 +213,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/helpers/application_helper.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/helpers/application_helper.rb": [
         1,
         1,
         0,
@@ -222,19 +222,19 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/helpers/rant_helper.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/helpers/rant_helper.rb": [
         1,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/helpers/rants_helper.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/helpers/rants_helper.rb": [
         1,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/helpers/response_helper.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/helpers/response_helper.rb": [
         1,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/helpers/session_helper.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/helpers/session_helper.rb": [
         1,
         null,
         1,
@@ -251,7 +251,7 @@
         null,
         null,
         1,
-        34,
+        30,
         null,
         null,
         1,
@@ -267,12 +267,12 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/helpers/user_helper.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/helpers/user_helper.rb": [
         1,
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/support/capybara_helpers.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/support/capybara_helpers.rb": [
         1,
         1,
         0,
@@ -292,7 +292,7 @@
         null,
         1
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/controllers/responses_controller.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/controllers/responses_controller.rb": [
         1,
         1,
         null,
@@ -306,42 +306,42 @@
         null,
         null,
         1,
-        0,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
         null,
         null,
         1,
         0,
         0,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        null,
-        null,
-        1,
-        0,
-        0,
         0,
         null,
         null,
         1,
         1,
-        0,
+        1,
         null,
         null,
         1,
-        2,
+        7,
         null,
         null,
         1,
-        2,
+        7,
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/controllers/application_controller.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/controllers/application_controller.rb": [
         1,
         null,
         null,
@@ -349,7 +349,7 @@
         1,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/controllers/sessions_controller_spec.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/controllers/sessions_controller_spec.rb": [
         1,
         null,
         null,
@@ -389,7 +389,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/controllers/sessions_controller.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/controllers/sessions_controller.rb": [
         1,
         null,
         1,
@@ -419,10 +419,10 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/controllers/users_controller_spec.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/controllers/users_controller_spec.rb": [
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/features/rants_spec.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/features/rants_spec.rb": [
         1,
         1,
         null,
@@ -487,16 +487,26 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/features/responses_spec.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/features/responses_spec.rb": [
         1,
         1,
-        6,
-        6,
+        7,
+        7,
         null,
         1,
         1,
         1,
         1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
         null,
         null,
         null,
@@ -506,16 +516,6 @@
         1,
         1,
         0,
-        0,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        1,
-        0,
-        0,
         null,
         null,
         null,
@@ -525,12 +525,21 @@
         1,
         1,
         1,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
         null,
         null,
         null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
         1,
         1,
         1,
@@ -539,14 +548,14 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/models/response.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/models/response.rb": [
         1,
         1,
         1,
         1,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/features/sessions_spec.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/features/sessions_spec.rb": [
         1,
         null,
         1,
@@ -584,7 +593,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/features/users_spec.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/features/users_spec.rb": [
         1,
         null,
         1,
@@ -625,7 +634,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/models/rant_spec.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/models/rant_spec.rb": [
         1,
         null,
         1,
@@ -660,7 +669,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/models/rant.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/models/rant.rb": [
         1,
         1,
         1,
@@ -668,7 +677,7 @@
         1,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/models/responses_spec.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/models/responses_spec.rb": [
         1,
         1,
         5,
@@ -684,7 +693,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/spec/models/user_spec.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/spec/models/user_spec.rb": [
         1,
         null,
         1,
@@ -728,7 +737,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/models/user.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/models/user.rb": [
         1,
         1,
         null,
@@ -751,7 +760,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/controllers/rants_controller.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/controllers/rants_controller.rb": [
         1,
         null,
         1,
@@ -759,9 +768,10 @@
         null,
         null,
         1,
-        5,
-        5,
-        5,
+        8,
+        null,
+        8,
+        8,
         null,
         null,
         1,
@@ -833,7 +843,7 @@
         null,
         null
       ],
-      "/Users/apprentice/Desktop/Rant-Overflow/app/controllers/users_controller.rb": [
+      "/Users/timmyhuang/Desktop/Rant-Overflow/app/controllers/users_controller.rb": [
         1,
         null,
         1,
@@ -919,6 +929,6 @@
         null
       ]
     },
-    "timestamp": 1400448748
+    "timestamp": 1400454524
   }
 }
